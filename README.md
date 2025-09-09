@@ -7,7 +7,7 @@ Passionate about building scalable data solutions & exploring new technologies.
 ---
 
 **🚀 Featured Projects**
-- [Airflor Project](https://github.com/flourenco-daniel/airflow_project)
+- [Airflow Project](https://github.com/flourenco-daniel/airflow_project)
 - [Coinbase ETL](https://github.com/flourenco-daniel/etl_jornada/)
 - [Web Scrapping](https://github.com/flourenco-daniel/scraping_jornada)
 
