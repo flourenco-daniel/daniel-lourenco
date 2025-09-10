@@ -1,7 +1,8 @@
 👋 **Hi, I'm Daniel!**
 
 **Data Scientist & Data Engineer**  
-Working with **Python**, **SQL**, and **NoSQL** databases: MongoDB, Cassandra, Neo4j.  
+Working with **Python**, **SQL**, **NoSQL** and **ML Models**
+databases: MongoDB, Cassandra, Neo4j.  
 Passionate about building scalable data solutions & exploring new technologies.
 
 ---
