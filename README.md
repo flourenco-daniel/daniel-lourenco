@@ -18,7 +18,7 @@ Passionate about building scalable data solutions & exploring new technologies.
 
 **🌐 Connect with me**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/daniel-lourenco-data/))
+- [![LinkedIn](https://www.linkedin.com/in/daniel-lourenco-data/))
 - 📧 Email: danielflourenco95@gmail.com
 - 📱 Phone: +5531993088850
 ---
