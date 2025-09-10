@@ -10,6 +10,8 @@ Passionate about building scalable data solutions & exploring new technologies.
 - [Airflow Project](https://github.com/flourenco-daniel/airflow_project)
 - [Coinbase ETL](https://github.com/flourenco-daniel/etl_jornada/)
 - [Web Scrapping](https://github.com/flourenco-daniel/scraping_jornada)
+- [A/B Test](https://github.com/flourenco-daniel/ab_testing)
+- [Discovery ML Models](https://github.com/flourenco-daniel/ml_projects)
 
 ---
 
